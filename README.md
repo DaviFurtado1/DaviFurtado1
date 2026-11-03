@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda então tentarei adicionar um pouco da minha personalidade no que eu faço!
+<div>
+   <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/1cf9d2a2-62be-43eb-9177-1ddc2f8df313"/><img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/8a97b8b1-da50-497e-92d6-6e38ab3acf65.gif"/>
+</div>
 
-<!--
-**DaviFurtado1/DaviFurtado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ferramentas que utilizo
 
-Here are some ideas to get you started:
+![FL Studio](https://img.shields.io/badge/FL_Studio-FFDE00?style=for-the-badge&logo=image-line&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</p>
