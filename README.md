@@ -1,8 +1,9 @@
 # Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda então tentarei adicionar um pouco da minha personalidade no que eu faço!
 
 <p align="center">
-  <img src="https://tenor.com/search/newjeans-gifs" width="300px" alt="Meu GIF Animado">
+  <img src="https://tenor.com/h0yLdqLPpe2.gif" width="250px">
 </p>
+
 ### Ferramentas que utilizo
 
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FFDE00?style=for-the-badge&logo=image-line&logoColor=black)
