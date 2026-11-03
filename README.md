@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="74a947e190741f1218aa8b99dbccf6d3.jpg" width="450px">
+  <img src="newjeans-omg.gif" width="150px">
 </p>
 
 ### Ferramentas que utilizo
