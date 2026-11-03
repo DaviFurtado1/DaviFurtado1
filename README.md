@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="download (2).gif" width="250px">
-  <img src="newjeans-omg.gif" width="250px">
+  <img src="Aespa Winter GIF - Aespa Winter Kpop - Descubre y comparte GIF.gif" width="250px">
 </p>
 
 ### Ferramentas que utilizo
