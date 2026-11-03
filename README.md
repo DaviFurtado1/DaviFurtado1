@@ -1,7 +1,7 @@
 # Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda então tentarei adicionar um pouco da minha personalidade no que eu faço!
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/62/76/de/6276ded6633e88a9cb4db436d6cde20b.gif" width="250px">
+  <img src="뉴진스 버블검 Bubble Gum 뮤직비디오 움짤 모음 (gif파일).gif" width="250px">
 </p>
 
 ### Ferramentas que utilizo
