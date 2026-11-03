@@ -1,7 +1,7 @@
 # Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda então tentarei adicionar um pouco da minha personalidade no que eu faço!
 
 <p align="center">
-  <img src="https://media.tenor.com/t1S0q7xV0gEAAAAC/newjeans-omg-njz.gif" width="300px" alt="NewJeans OMG GIF">
+  <img src="https://media1.tenor.com/m/W2B4GkEx7rIAAAAd/newjeans-omg.gif" width="250px">
 </p>
 
 ### Ferramentas que utilizo
