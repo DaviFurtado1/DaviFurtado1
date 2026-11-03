@@ -1,8 +1,8 @@
 # Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda e cinema então tentarei adicionar um pouco da minha personalidade no que eu faço!
-
+<hr>
 <p align="center">
-  <img src="download (2).gif" width="250px">
   <img src="Aespa Winter GIF - Aespa Winter Kpop - Descubre y comparte GIF.gif" width="250px">
+  <img src="download (2).gif" width="250px">
 </p>
 
 ### Ferramentas que utilizo
