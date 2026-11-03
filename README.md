@@ -1,8 +1,8 @@
 # Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda e cinema então tentarei adicionar um pouco da minha personalidade no que eu faço!
 
 <p align="center">
-  <img src="74a947e190741f1218aa8b99dbccf6d3.jpg" width="450px">
-  <img src="newjeans-omg.gif" width="450px">
+  <img src="download (2).gif" width="250px">
+  <img src="newjeans-omg.gif" width="250px">
 </p>
 
 ### Ferramentas que utilizo
