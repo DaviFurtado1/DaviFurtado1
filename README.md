@@ -1,7 +1,6 @@
 # Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda então tentarei adicionar um pouco da minha personalidade no que eu faço!
-<p align="center">
-  <img src="https://tenor.com/pt-BR/view/newjeans-omg-njz-gif-6584394709373939378" width="300px">
-</p>
+
+<div class="tenor-gif-embed" data-postid="6584394709373939378" data-share-method="host" data-aspect-ratio="1.32447" data-width="100%"><a href="https://tenor.com/view/newjeans-omg-njz-gif-6584394709373939378">Newjeans Omg GIF</a>from <a href="https://tenor.com/search/newjeans-gifs">Newjeans GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Ferramentas que utilizo
 
