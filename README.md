@@ -1,4 +1,4 @@
-# Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda então tentarei adicionar um pouco da minha personalidade no que eu faço!
+# Olá, me chamo Davi e atualmente estou estudando programação, também faço música e gosto de moda e cinema então tentarei adicionar um pouco da minha personalidade no que eu faço!
 
 <p align="center">
   <img src="74a947e190741f1218aa8b99dbccf6d3.jpg" width="450px">
