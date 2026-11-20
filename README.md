@@ -11,9 +11,9 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-050811?style=for-the-badge&logo=adobephotoshop&logoColor=00f5ff)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-050811?style=for-the-badge&logo=adobepremierepro&logoColor=00f5ff)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-050811?style=for-the-badge&logo=flstudio&logoColor=00f5ff)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-050811?style=for-the-badge&logo=canva&logoColor=00f5ff)
+![Linux](https://img.shields.io/badge/Linux-050811?style=for-the-badge&logo=linux&logoColor=00f5ff)
+![Windows](https://img.shields.io/badge/Windows-050811?style=for-the-badge&logo=windows&logoColor=00f5ff)
 
 <hr>
 
