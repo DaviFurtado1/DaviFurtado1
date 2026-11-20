@@ -6,12 +6,12 @@
 
 ### Ferramentas que utilizo
 
-![FL Studio](https://img.shields.io/badge/FL_Studio-FFDE00?style=for-the-badge&logo=image-line&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![Premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-050811?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
+![GitHub](https://img.shields.io/badge/GitHub-050811?style=for-the-badge&logo=github&logoColor=00f5ff)
+![Photoshop](https://img.shields.io/badge/Photoshop-050811?style=for-the-badge&logo=adobephotoshop&logoColor=00f5ff)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-050811?style=for-the-badge&logo=adobepremierepro&logoColor=00f5ff)
+![FL Studio](https://img.shields.io/badge/FL_Studio-050811?style=for-the-badge&logo=flstudio&logoColor=00f5ff)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -19,6 +19,6 @@
 
 ### Atualmente estudando
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-050811?style=for-the-badge&logo=html5&logoColor=00f5ff)
+![CSS3](https://img.shields.io/badge/CSS3-050811?style=for-the-badge&logo=css3&logoColor=00f5ff)
+![PHP](https://img.shields.io/badge/PHP-050811?style=for-the-badge&logo=php&logoColor=00f5ff)
