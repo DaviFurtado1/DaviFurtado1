@@ -19,6 +19,6 @@
 
 ### Atualmente estudando
 
-![HTML5](https://img.shields.io/badge/HTML5-050811?style=for-the-badge&logo=html5&logoColor=00f5ff)
-![CSS3](https://img.shields.io/badge/CSS3-050811?style=for-the-badge&logo=css3&logoColor=00f5ff)
-![PHP](https://img.shields.io/badge/PHP-050811?style=for-the-badge&logo=php&logoColor=00f5ff)
+![HTML5](https://img.shields.io/badge/HTML5-14141f?style=for-the-badge&logo=html5&logoColor=7ce8ff)
+![CSS3](https://img.shields.io/badge/CSS3-14141f?style=for-the-badge&logo=css3&logoColor=ffb7d5)
+![PHP](https://img.shields.io/badge/PHP-14141f?style=for-the-badge&logo=php&logoColor=d8b4fe)
