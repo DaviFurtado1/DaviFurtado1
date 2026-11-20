@@ -1,4 +1,4 @@
-# Olá, me chamo Davi Furtado e atualmente estou estudando programação, também faço música e gosto de moda e cinema, então tentarei adicionar um pouco da minha personalidade no que eu faço!
+# Olá, me chamo Davi Furtado. Atualmente estou estudando programação, também faço música e gosto de moda e cinema, então sempre tento colocar um pouco da minha personalidade em tudo o que faço!
 <p align="center">
   <img src="download.gif" width="250px">
   <img src="@ giselle gif.gif" width="250px">
