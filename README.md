@@ -1,6 +1,6 @@
 # Olá, me chamo Davi Furtado e atualmente estou estudando programação, também faço música e gosto de moda e cinema, então tentarei adicionar um pouco da minha personalidade no que eu faço!
 <p align="center">
-  <img src="Aespa Winter GIF - Aespa Winter Kpop - Descubre y comparte GIF.gif" width="250px">
+  <img src="download.gif" width="250px">
   <img src="download (2).gif" width="250px">
 </p>
 
