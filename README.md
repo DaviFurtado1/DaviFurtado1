@@ -22,4 +22,5 @@
 ![HTML5](https://img.shields.io/badge/HTML5-14141f?style=for-the-badge&logo=html5&logoColor=7ce8ff)
 ![CSS3](https://img.shields.io/badge/CSS3-14141f?style=for-the-badge&logo=css3&logoColor=ffb7d5)
 ![PHP](https://img.shields.io/badge/PHP-14141f?style=for-the-badge&logo=php&logoColor=d8b4fe)
-![NOW PLAYING](https://img.shields.io/badge/♫_Ditto_—_NewJeans_(뉴진스)-01:48_━━━━●──_03:05-050811?style=flat-square&labelColor=00f5ff&logo=spotify&logoColor=050811)
+
+![NOW PLAYING](https://img.shields.io/badge/🐇_NOW_PLAYING-NewJeans_✦_Ditto-e0f7ff?style=for-the-badge&labelColor=0a0e1a)
