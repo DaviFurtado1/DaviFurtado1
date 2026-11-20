@@ -22,4 +22,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-14141f?style=for-the-badge&logo=html5&logoColor=7ce8ff)
 ![CSS3](https://img.shields.io/badge/CSS3-14141f?style=for-the-badge&logo=css3&logoColor=ffb7d5)
 ![PHP](https://img.shields.io/badge/PHP-14141f?style=for-the-badge&logo=php&logoColor=d8b4fe)
-![NOW PLAYING](https://img.shields.io/badge/▶_재생중-SHIBUYA_//_SEOUL_FM-00f5ff?style=flat-square&labelColor=050811)
+![NOW PLAYING](https://img.shields.io/badge/▶_REC_1998_//_재생중-NewJeans_•_Ditto_(Side_B)-9ee7ff?style=for-the-badge&labelColor=050811)
